@@ -1,0 +1,9 @@
+ua\lviv\iot\springfirst\rest\business\GroupService.class
+ua\lviv\iot\springfirst\rest\business\StudentService.class
+ua\lviv\iot\springfirst\rest\dataaccess\GroupRepository.class
+ua\lviv\iot\springfirst\rest\controller\StudentsController.class
+ua\lviv\iot\springfirst\rest\RestApplication.class
+ua\lviv\iot\springfirst\rest\model\Student.class
+ua\lviv\iot\springfirst\rest\dataaccess\StudentRepository.class
+ua\lviv\iot\springfirst\rest\controller\GroupController.class
+ua\lviv\iot\springfirst\rest\model\Group.class
